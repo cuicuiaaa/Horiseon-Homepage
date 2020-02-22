@@ -1,8 +1,8 @@
 # Horiseon-Homepage
 
-The project is to refector the former code without any change of the visual look and actual content of the website.
+The project is to refactor the former code without any change of the visual look and actual content of the website.
 
-The main change I did in the project is to
+The main changes I did in the project is to
 - make HTML elements semantic
 - make sure elements are in a logical structure
 - consolidate CSS selectors and properties
